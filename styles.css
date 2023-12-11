@@ -19,7 +19,7 @@ body {
     color: #fff !important;
 }
 
-/* Adjust the margin to push the content to the right */
+
 .navbar-nav {
     margin-left: auto;
 }
@@ -37,28 +37,28 @@ body {
 
 .custom-offer-text {
     font-weight: bold;
-    color: #fff; /* Your desired color for the text */
+    color: #fff; 
 }
 
 .custom-offer-icon {
-    width: 20px; /* Adjust the size of the icon as needed */
+    width: 20px; 
     height: 20px;
-    margin-left: 5px; /* Adjust the spacing as needed */
+    margin-left: 5px; 
 }
 
 .custom-offer-content {
-    margin-left: 10px; /* Adjust the spacing as needed */
+    margin-left: 10px; 
 }
 
 .custom-offer-title {
-    font-size: 1em; /* Adjust the font size as needed */
+    font-size: 1em; 
     font-weight: bold;
-    color: #fff; /* Your desired color for the title */
+    color: #fff; 
 }
 
 .custom-offer-subtitle {
-    font-size: 0.7em; /* Adjust the font size as needed */
-    color: #ccc; /* Your desired color for the subtitle */
+    font-size: 0.7em; 
+    color: #ccc; 
 }
 
 .custom-myBiz-section {
@@ -69,22 +69,22 @@ body {
 }
 
 .custom-myBiz-icon {
-    margin-right: 10px; /* Adjust the spacing as needed */
+    margin-right: 10px; 
 }
 
 .custom-myBiz-content {
-    margin-right: 5px; /* Adjust the spacing as needed */
+    margin-right: 5px; 
 }
 
 .custom-myBiz-title {
-    font-size: 1em; /* Adjust the font size as needed */
+    font-size: 1em; 
     font-weight: bold;
-    color: #fff; /* Your desired color for the title */
+    color: #fff; 
 }
 
 .custom-myBiz-subtitle {
-    font-size: 0.7em; /* Adjust the font size as needed */
-    color: #fff; /* Your desired color for the subtitle */
+    font-size: 0.7em; 
+    color: #fff; 
 }
 
 .translucent-box {
@@ -93,17 +93,16 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Adjust the last value (0.5) for the desired opacity */
+    background-color: rgba(0, 0, 0, 0.5); 
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 10px;
 }
 
-/* Add additional styling for the content if needed */
+
 .translucent-box .whiteText {
     color: #fff;
-    /* Add more styling as needed */
 }
 
 .curved-box {
@@ -112,8 +111,8 @@ body {
     padding: 20px;
     margin: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 80%; /* 75% of the screen width */
-    max-width: 800px; /* Maximum width for larger screens */
+    width: 80%; 
+    max-width: 800px; 
     position: absolute;
     z-index: 2;
     top : 100px;
@@ -137,7 +136,7 @@ body {
 }
 
 .nav-link img {
-    width: 50px; /* Adjust the size of the default images */
+    width: 50px; 
     height: 50px;
 }
 
@@ -147,8 +146,8 @@ body {
     padding: 20px;
     margin: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 100%; /* 75% of the screen width */
-    max-width: 1000px; /* Maximum width for larger screens */
+    width: 100%;
+    max-width: 1000px; 
     position: relative;
     height: 450px;
     top: 110px;
@@ -212,22 +211,22 @@ th, td {
     display: block;
 }
 
-/* Style for the radio container */
+
 .specialFareNew {
     list-style: none;
     padding: 0;
     display: flex;
 }
 
-/* Style for each radio button */
+
 .specialFareNew li {
-    margin-right: 10px; /* Adjust spacing between radio buttons */
+    margin-right: 10px; 
 }
 
 /* Style for the radio input */
 .specialFareNew input[type="radio"] {
-    transform: scale(0.8); /* Adjust the scale to make the radio button smaller */
-    margin-right: 5px; /* Adjust spacing between radio button and text */
+    transform: scale(0.8); 
+    margin-right: 5px; 
 }
 
 .regfare{
@@ -258,8 +257,8 @@ th, td {
     margin-top: -520px; /* Adjust the margin-top value to move the button down */
 }
 
-/* Hover effect: Darken the button color on hover */
+
 .search-button:hover {
-    background: linear-gradient(to right, #66b3ff, #005bb5); /* Adjust hover colors */
+    background: linear-gradient(to right, #66b3ff, #005bb5); 
 }
 
